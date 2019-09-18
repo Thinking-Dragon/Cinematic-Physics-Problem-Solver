@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj",
+        "projectName": "Cinematic Physics Problem Solver",
+        "projectPath": "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj",
+        "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cleme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

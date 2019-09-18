@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinematic Physics Problem Solver", "Cinematic Physics Problem Solver.csproj", "{76AFAED3-FAD1-46C4-B8D3-F8EA215FB8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76AFAED3-FAD1-46C4-B8D3-F8EA215FB8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AFAED3-FAD1-46C4-B8D3-F8EA215FB8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AFAED3-FAD1-46C4-B8D3-F8EA215FB8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AFAED3-FAD1-46C4-B8D3-F8EA215FB8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16701DCE-768E-4BAC-A063-EA711B7191E5}
+	EndGlobalSection
+EndGlobal
