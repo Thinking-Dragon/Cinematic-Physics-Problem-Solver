@@ -13,7 +13,7 @@ namespace Cinematic_Physics_Problem_Solver.Controllers
 
         public IActionResult Solve()
         {
-            if (HttpContext.Request.Method != "POST") RedirectToAction("Index", "Home");
+            if (HttpContext.Request.Method != "POST") return RedirectToAction("Index", "Home");
             return View();
         }
     }
