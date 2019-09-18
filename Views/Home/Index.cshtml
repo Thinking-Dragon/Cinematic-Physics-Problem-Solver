@@ -3,6 +3,47 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Cinematic Problem Solver</h1>
+    <p>Enter the values found in the problem here, we'll take care of the rest:</p>
+    <form action="/Solve" method="post" class="box-shadow">
+        <label for="initial[x]">X0:</label>
+        <input name="initial[x]" type="number" placeholder="Initial position" />
+        <label for="current[x]">X:</label>
+        <input name="current[x]" type="number" placeholder="Current position" />
+
+        <br />
+
+        <label for="initial[v]">Vx0:</label>
+        <input name="initial[v]" type="number" placeholder="Initial velocity" />
+        <label for="current[v]">Vx:</label>
+        <input name="current[v]" type="number" placeholder="Current velocity" />
+
+        <br />
+
+        <label for="general[a]">ax:</label>
+        <input name="general[a]" type="number" placeholder="Constant acceleration" />
+        <label for="general[t]">t:</label>
+        <input name="general[t]" type="number" placeholder="Time elapsed" />
+
+        <br />
+
+        <label for="unknown">Which variable do you want to find ?</label>
+        <br />
+        <select name="unknown">
+            <optgroup label="Initial values">
+                <option value="x0">Position (x0)</option>
+                <option value="Vx0">Velocity (Vx0)</option>
+            </optgroup>
+            <optgroup label="Current values">
+                <option value="x">Position (x)</option>
+                <option value="Vx">Velocity (Vx)</option>
+            </optgroup>
+            <optgroup label="General values">
+                <option value="ax">Acceleration (ax)</option>
+                <option value="t">Time (t)</option>
+            </optgroup>
+        </select>
+
+        <input type="submit" value="Solve problem" />
+    </form>
 </div>

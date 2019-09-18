@@ -1,0 +1,31 @@
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\bin\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.deps.json
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\bin\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.runtimeconfig.json
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\bin\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.runtimeconfig.dev.json
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\bin\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.dll
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\bin\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.pdb
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\bin\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.Views.dll
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\bin\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.Views.pdb
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.csprojAssemblyReference.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.RazorAssemblyInfo.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.RazorAssemblyInfo.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.AssemblyInfoInputs.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.AssemblyInfo.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.TagHelpers.input.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.TagHelpers.output.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.RazorCoreGenerate.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.RazorTargetAssemblyInfo.cache
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.RazorTargetAssemblyInfo.cs
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.Views.pdb
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.dll
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.pdb
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Cinematic Physics Problem Solver.csproj.CopyComplete
+C:\Users\cleme\Documents\GitHub\Cinematic Physics Problem Solver\obj\Debug\netcoreapp2.2\Razor\Views\Solver\Solve.g.cshtml.cs

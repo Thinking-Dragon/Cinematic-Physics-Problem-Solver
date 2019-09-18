@@ -15,6 +15,11 @@ namespace Cinematic_Physics_Problem_Solver.Controllers
             return View();
         }
 
+        public IActionResult Solve()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

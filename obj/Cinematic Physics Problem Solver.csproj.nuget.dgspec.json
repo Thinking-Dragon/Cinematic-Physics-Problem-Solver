@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj": {}
+    "C:\\Users\\cleme\\Documents\\GitHub\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj": {
+    "C:\\Users\\cleme\\Documents\\GitHub\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj",
+        "projectUniqueName": "C:\\Users\\cleme\\Documents\\GitHub\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj",
         "projectName": "Cinematic Physics Problem Solver",
-        "projectPath": "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj",
+        "projectPath": "C:\\Users\\cleme\\Documents\\GitHub\\Cinematic Physics Problem Solver\\Cinematic Physics Problem Solver.csproj",
         "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleme\\Documents\\GitHub\\New folder\\Cinematic Physics Problem Solver\\obj\\",
+        "outputPath": "C:\\Users\\cleme\\Documents\\GitHub\\Cinematic Physics Problem Solver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             }
           },
           "imports": [
